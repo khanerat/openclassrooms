@@ -1,0 +1,19 @@
+/*header*/
+
+.bordureSearch {
+    width:400px;
+    border-radius:10px;
+}
+.recherche{
+    height: 50px;
+    width: 240px;
+    font-size: 19px;
+    color:black;
+    font-weight: bold;
+
+}
+.iconSize{
+    height: 50px;
+    width: 50px;
+}
+/*header*/
