@@ -1,4 +1,10 @@
-/*header*/
+
+
+/*parent*/
+.logo{
+    width:200px;
+    border-left:100px;
+}
 
 .bordureSearch {
     width:400px;
@@ -16,4 +22,25 @@
     height: 50px;
     width: 50px;
 }
-/*header*/
+/*parent*/
+
+
+/*enfant1*/
+/*enfant1*/
+
+
+/*enfant2*/
+/*enfant2*/
+
+
+/*enfant3*/
+.cannebiere{
+    border
+}
+/*enfant3*/
+
+
+/*enfant4*/
+/*enfant4*/
+
+
