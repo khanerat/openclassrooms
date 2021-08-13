@@ -70,6 +70,10 @@
 
 /*child3*/
 
+.checked {
+    color:blue;
+  }
+
 .cannebiere{
     display:inline-block;
     border:10px solid #000;
