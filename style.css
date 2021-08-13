@@ -1,46 +1,224 @@
-
+.font-family: 'Raleway', sans-serif;
 
 /*parent*/
+
 .logo{
-    width:200px;
-    border-left:100px;
+        width:200px;
+        border-left:100px;
+    }
 }
 
+.location{
+    display:inline-block;
+    width:400px;
+    height:150px;
+    border-radius:10px;
+}
+
+.activités{
+    display:inline-block;
+    width:500px;
+    height:100px;
+    border-radius:10px;
+}
+
+.inscription{
+    display:inline-block;
+    width:600px;
+    height:50px;
+    border-radius:10px;
+}
+
+/*child1*/
+
+
 .bordureSearch {
+    display:inline-block;
     width:400px;
     border-radius:10px;
 }
+
 .recherche{
+    display:inline-block;
     height: 50px;
     width: 240px;
     font-size: 19px;
     color:black;
     font-weight: bold;
-
 }
+
 .iconSize{
+    display:inline-block;
     height: 50px;
     width: 50px;
 }
-/*parent*/
 
+/*child2*/
 
-/*enfant1*/
-/*enfant1*/
-
-
-/*enfant2*/
-/*enfant2*/
-
-
-/*enfant3*/
-.cannebiere{
-    border
+.economique{
+    display:inline-block;
 }
-/*enfant3*/
 
+.famille{
+    display:inline-block;
+}
 
-/*enfant4*/
-/*enfant4*/
+.romantique{
+    display:inline-block;
+}
 
+.animaux{
+    display:inline-block;
+}
+
+/*child3*/
+
+.cannebiere{
+    display:inline-block;
+    border:10px solid #000;
+    border-style:hidden;
+    border-radius:10px;
+    box-shadow:6px 6px 6px 6px black;
+    text-align:center;
+
+}
+
+.mer{
+    display:inline-block;
+    border:10px solid #000;
+    border-style:hidden;
+    border-radius:10px;
+    box-shadow:6px 6px 6px 6px black;
+    text-align:center;
+}
+
+.panier{
+    display:inline-block;
+    border:10px solid #000;
+    border-style:hidden;
+    border-radius:10px;
+    box-shadow:6px 6px 6px 6px black;
+    text-align:center;
+}
+
+.port{
+    display:inline-block;
+    border:10px solid #000;
+    border-style:hidden;
+    border-radius:10px;
+    box-shadow:6px 6px 6px 6px black;
+    text-align:center;
+}
+
+.mouettes{
+    display:inline-block;
+    border:10px solid #000;
+    border-style:hidden;
+    border-radius:10px;
+    box-shadow:6px 6px 6px 6px black;
+    text-align:center;
+}
+
+.amina{
+    display:inline-block;
+    border:10px solid #000;
+    border-style:hidden;
+    border-radius:10px;
+    box-shadow:6px 6px 6px 6px black;
+    text-align:center;
+}
+
+.matin{
+    display:inline-block;
+    border:10px solid #000;
+    border-style:hidden;
+    border-radius:10px;
+    box-shadow:6px 6px 6px 6px black;
+    text-align:center;
+}
+
+.blanc{
+    display:inline-block;
+    border:10px solid #000;
+    border-style:hidden;
+    border-radius:10px;
+    box-shadow:6px 6px 6px 6px black;
+    text-align:center;
+}
+
+.hôtes{
+    display:inline-block;
+    border:10px solid #000;
+    border-style:hidden;
+    border-radius:10px;
+    box-shadow:6px 6px 6px 6px black;
+    text-align:center;
+}
+
+/*child4*/
+
+.vieux{
+    display:inline-block;
+    border-style:hidden;
+    border-radius:10px;
+    text-align:center;
+}
+
+.fort{
+    display:inline-block;
+    border-style:hidden;
+    border-radius:10px;
+    text-align:center;
+}
+
+.îles{
+    display:inline-block;
+    border-style:hidden;
+    border-radius:10px;
+    text-align:center;
+}
+
+.calanques{
+    display:inline-block;
+    border-style:hidden;
+    border-radius:10px;
+    text-align:center;
+}
+
+.dame{
+    display:inline-block;
+    border-style:hidden;
+    border-radius:10px;
+    text-align:center;
+}
+
+.longchamp{
+    display:inline-block;
+    border-style:hidden;
+    border-radius:10px;
+    text-align:center;
+}
+
+/*footer*/
+
+.propos{
+    display:inline-block;
+    width:400px;
+    border-radius:10px;
+    text-align: left;
+}
+
+.hebergement{
+    display:inline-block;
+    width:400px;
+    border-radius:10px;
+    text-align: center;
+}
+
+.assistance{
+    display:inline-block;
+    width:400px;
+    border-radius:10px;
+    text-align: right;
+}
 
